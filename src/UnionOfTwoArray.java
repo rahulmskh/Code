@@ -1,5 +1,5 @@
 //UNION OF 2 ARRAYS
-//Count the total number of elements in union of two arrays sets.
+//Count the total number of elements in union of two array's sets.
 import java.util.*;
 public class UnionOfTwoArray {
     public static int unionOfArray(int arr1[], int arr2[]){
